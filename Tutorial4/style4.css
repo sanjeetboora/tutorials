@@ -1,0 +1,20 @@
+h1{
+	/*color: red;*/
+
+	/* color: rgb(255,0,0); */
+
+	color: #fe128b;
+	background-color: #dfabce; 
+}
+
+h2{
+	/*color: rgb(0,255,0);*/
+
+	color: #d078ab;
+	background-color: #654abc; 
+}
+
+p{
+	color: rgb(18,100,200);
+	background-color: #efd912; 
+}
