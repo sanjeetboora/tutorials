@@ -1,0 +1,48 @@
+p{
+	font-family: arial;
+	font-size: 50px;
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: underline;
+	letter-spacing: 1em;
+	text-align: justify;
+	line-height: 2em;
+	text-indent: 1em;
+}
+span{
+	font-size: 30px;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+h3{
+	font-size: 30px;
+	font-weight: 900;
+}
+h1{
+	font-family: "Times New Roman";
+	font-size: 20px;
+	font-style: normal;
+	text-decoration: line-through;
+	text-transform: uppercase;
+	letter-spacing: 0.5em;
+	text-align: left;
+}
+h2{
+	font-family: verdana, "Times New Roman", arial;
+	text-decoration: overline;
+	text-transform: lowercase;
+	letter-spacing: 1em;
+}
+h4{
+	text-transform: capitalize;
+	word-spacing: 1em;
+	letter-spacing: 0.1em;
+	text-align: right;
+}
+h5{
+	text-transform: none;
+	text-align: center;
+}
+
+
