@@ -1,0 +1,64 @@
+a{
+	font-size: 40px;
+	color: green;
+}
+/*browser doesn't support anymore*/
+a:link{
+	color: yellow;
+}
+
+a:visited{
+	color:pink;
+}
+
+a:hover{
+	color: red;
+}
+
+a:active{
+	color:blue;
+}
+
+input, textarea{
+	border-width: 4px;
+	border-color: green;
+}
+input:focus, textarea:focus{
+	border-width: 10px;
+	border-color: red;
+}
+p{
+	color:red;
+}
+
+p:first-child{
+	color:green;
+}
+
+p:last-child{
+	color:blue;
+}
+
+h1{
+	color:green;
+}
+
+h1:first-of-type{
+	color:pink;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
