@@ -1,0 +1,53 @@
+div p{
+	color:green;
+}
+
+p{
+	color:yellow;
+}
+
+li{
+	display: inline;
+	color: yellow;
+	font-size: 18px;
+}
+
+nav{
+	background-color: black;
+}
+
+nav span{
+	color: white;
+	font-size: 24px;
+}
+
+.rightElements {
+	text-align: right;
+}
+
+.pseudoElements{
+	color:green;
+	font-size: 18px;
+}
+
+.pseudoElements:first-letter{
+	color:pink;
+	font-size: 28px;
+}
+.quote:before{
+	content: open-quote;
+}
+.quote:after{
+	content: close-quote;
+}
+
+blockquote:before{
+	content: open-quote;
+}
+blockquote:after{
+	content: close-quote;
+}
+
+
+
+
