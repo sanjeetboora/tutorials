@@ -1,0 +1,30 @@
+#box{
+	/*height: 500px;
+    width: 600px;*/
+    height: 50px;
+    width: 60px;
+    background-color: red;
+    margin-left: 10%;
+    margin-top: 10%;
+    border-color: green;
+    border-width: 100px;
+    border-style: solid;
+    /* border-radius: 50%; */
+   /* border-top-left-radius: 10%;
+    border-bottom-right-radius: 20%;
+    border-top-right-radius: 30%;
+    border-bottom-left-radius: 5%;
+*/
+    border-radius: 260px/501px;
+    border-bottom-left-radius: 250px;
+    border-bottom-right-radius: 255px;
+   /*box-shadow: 50px 100px 50px 20px yellowgreen;*/
+   box-shadow: -51px 100px 30px 50px lightgrey;
+}	
+
+button{
+	color: pink;
+    height: 20px;
+    width: 100px;
+    box-shadow: 10px 20px 5px 10px pink;
+}
